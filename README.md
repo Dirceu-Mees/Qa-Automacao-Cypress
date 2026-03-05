@@ -1,4 +1,4 @@
-# Qa-Automa-o-Cypress
+# Qa-Automacao-Cypress
 🚀 Automação de Testes de Login - Cypress
 Este projeto faz parte da minha jornada de aprendizado em QA Automation. Nele, desenvolvi suítes de testes para validar o fluxo de autenticação de uma plataforma de e-commerce, focando em cenários de sucesso e exceção.
 
